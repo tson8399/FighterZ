@@ -5,5 +5,6 @@
 <p>
    This is my game describtion
 </p>
+
 <h3>Screenshots</h3>
 <img scr="https://github.com/tson8399/FighterZ/blob/master/FighterZ%20pic.PNG" width="200px">
